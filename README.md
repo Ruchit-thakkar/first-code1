@@ -1,2 +1,4 @@
 # first-code1
-first git repo
+HELLO 
+<br>
+MY NAME IS RUCHIT
